@@ -1,7 +1,7 @@
 # symfony4-horus-test
 
 
- to handle many objects a create create triangle metho and a create circle methos , onece you add cicles o triangles , you can sum their areas or perimeters.
+ To handle many objects a create triangle method and a create circle method(just to go further) , once you add circles o triangles , you can sum their areas or perimeters.
  
  
  create 2 models/classes : done
