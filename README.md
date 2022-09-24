@@ -53,7 +53,7 @@ json responses :
 
 
 
- -implement method for sum of areas for two given objects : take a lood at CircleService
+-Implement method for sum of areas for two given objects : done, take a lood at CircleService
  
 
-- implement method for sum of diameters for two given objects : done , take a look at TriangleService
+-Implement method for sum of diameters for two given objects : done , take a look at TriangleService
